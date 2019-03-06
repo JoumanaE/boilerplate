@@ -1,11 +1,11 @@
 ---
-title: Hellow World
+title: Hello World
 date: 2019-02-07
 ---
 
 ## Hello world
 
-Hi there, this is my first post on gitpress. Looking forward to sharing blog posts.
+Hi there, this is my first post on GitPress. Looking forward to sharing blog posts.
 
 J
 
