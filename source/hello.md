@@ -1,11 +1,13 @@
 ---
-title: Say Hello to the world
+title: Hellow World
 date: 2019-02-07
 ---
 
 ## Hello world
 
-Welcome to GitPress. This is your first post.
+Hi there, this is my first post on gitpress. Looking forward to sharing blog posts.
+
+J
 
 ## Useful links
 
